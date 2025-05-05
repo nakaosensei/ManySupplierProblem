@@ -20,9 +20,8 @@ Experiments were conducted using purchase orders containing varying numbers of p
   - 📄 synt.csv: Expanded dataset, ensuring that every retailers has every product in stock in csv format.
   - 📄 real.bak: Direct dump from the real dataset on PostgreSQL.
   - 📄 synt.bak: Direct dump from the synthetic dataset on PostgreSQL.
-- 📂 **src**: Implementations of the proposed optimization approaches  
 - 📂 **experiments**: Output files such as images and CSVs 
-
+- 📂 **tests**: The files used as inputs of the recorded experiments. 
 
 
 
